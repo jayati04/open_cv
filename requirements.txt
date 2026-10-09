@@ -1,0 +1,10 @@
+# Core libraries
+numpy
+opencv-python
+mediapipe
+tensorflow
+scikit-learn
+
+
+# Visualization and utility
+matplotlib
